@@ -1,4 +1,4 @@
-Meteor.subscribe("tasks");
+Meteor.subscribe("todos");
 /*
  * Add query methods like this:
  *  Todos.findPublic = function () {
